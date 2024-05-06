@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:64046/posts/my-first-post/</loc>
+    <loc>https://example.com/</loc>
+    <lastmod>2024-05-06T09:33:26+02:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/</loc>
+    <lastmod>2024-05-06T09:27:18+02:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/data-gouvernance/</loc>
+    <lastmod>2024-05-06T09:27:18+02:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/ia/</loc>
+    <lastmod>2024-05-06T09:27:18+02:00</lastmod>
+  </url><url>
+    <loc>https://example.com/n%C3%A9cessit%C3%A9-dune-gouvernance-des-donn%C3%A9es-pour-ne-pas-rater-le-virage-de-lia/</loc>
+    <lastmod>2024-05-06T09:27:18+02:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2024-05-01T09:56:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:64046/</loc>
-    <lastmod>2024-05-01T09:56:12+02:00</lastmod>
+    <loc>https://example.com/bear/</loc>
   </url><url>
-    <loc>http://localhost:64046/posts/</loc>
-    <lastmod>2024-05-01T09:56:12+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:64046/categories/</loc>
-  </url><url>
-    <loc>http://localhost:64046/tags/</loc>
+    <loc>https://example.com/hugo/</loc>
   </url>
 </urlset>
