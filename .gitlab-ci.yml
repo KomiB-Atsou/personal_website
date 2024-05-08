@@ -16,6 +16,11 @@
 # This specific template is located at:
 # https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Getting-Started.gitlab-ci.yml
 
+
+
+# Doc pour automatiser mise à jour backend load-balancer (en fonction de la version du site à déploier test/prod)
+# https://cloud.google.com/sdk/gcloud/reference/compute/backend-buckets/update
+
 stages:          # List of stages for jobs, and their order of execution
   - build
   - test
