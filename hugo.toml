@@ -6,7 +6,7 @@ baseURL = "https://komi-b-atsou.com/"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Komi Bi-Ayéfo ATSOU - komi-b-atsou.com"
+title = "Komi Bi-Ayéfo ATSOU | komi-b-atsou.com"
 author = "Komi Bi-Ayéfo ATSOU"
 copyright = "Copyright © 2024, Komi Bi-Ayéfo ATSOU."
 languageCode = "en-US"
