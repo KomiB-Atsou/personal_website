@@ -3,4 +3,4 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/hugo-bearblog"]
 	path = themes/hugo-bearblog
-	url = https://github.com/janraasch/hugo-bearblog.git
+	url = https://gitlab.com/bi-ayefo/hugo_theme_bear_blog_perso.git
