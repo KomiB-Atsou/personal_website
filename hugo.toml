@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "http://komi-b-atsou.com/"
+baseURL = "https://komi-b-atsou.com/"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
@@ -58,7 +58,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 name = "production"
 
 # Google Cloud Storage
-URL = "gs://akb-test"
+URL = "gs://akb-site-hugo"
 
 # Google Cloud Storage -- see https://gocloud.dev/howto/blob/#gcs
 #URL = "gs://akb-test"
