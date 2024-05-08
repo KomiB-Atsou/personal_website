@@ -1,28 +1,11 @@
 +++
-# This title is used as the og:title on Hugo's internal
-# opengraph structured data template on the home page.
-# See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-title = "Hugo ʕ•ᴥ•ʔ Bear"
+title = 'About'
 +++
 
-# A match made in heaven
+Je m'appelle Komi Bi-Ayéfo ATSOU et je suis data engineer / data scientist. Je suis passionné par la création de systèmes d'aide à la décision basés sur l'informatique et les mathématiques appliquées.
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+Sur ce site je partage sur des thématiques autour de la data et de l’IA notamment dans le domaine de la gestion et de la finance dans les entreprises et les organisations. Je partagerai aussi au sujet des finances personnelles, et au sujet de l'organisation. Si vous voulez savoir comment tirer partie des évolutions technologiques dans le domaine de la data et de l’IA pour améliorer la performance d'une entreprise ou organisation, ou votre propre performance performance ainsi que votre bonheur, vous êtes au bon endroit.
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+## Mon Linkedin
 
-[Go to the original bear blog](https://bearblog.dev/).
-
----
-
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+<a href="https://www.linkedin.com/in/komi-b-atsou" target="_blank">https://www.linkedin.com/in/komi-b-atsou </a>

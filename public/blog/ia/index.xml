@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IA on Komi Bi-Ayéfo ATSOU</title>
-    <link>https://example.com/blog/ia/</link>
-    <description>Recent content in IA on Komi Bi-Ayéfo ATSOU</description>
+    <title>Ia on Komi Bi-Ayéfo ATSOU - komi-b-atsou.com</title>
+    <link>http://localhost:1313/blog/ia/</link>
+    <description>Recent content in Ia on Komi Bi-Ayéfo ATSOU - komi-b-atsou.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, Komi Bi-Ayéfo ATSOU.</copyright>
-    <lastBuildDate>Mon, 06 May 2024 09:27:18 +0200</lastBuildDate>
-    <atom:link href="https://example.com/blog/ia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 May 2024 05:41:57 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/ia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/test/</link>
+      <pubDate>Wed, 08 May 2024 05:41:57 +0200</pubDate>
+      <guid>http://localhost:1313/test/</guid>
+      <description>This is a page about »Test«.</description>
+    </item>
     <item>
       <title>Nécessité d&#39;une gouvernance des données pour ne pas rater le virage de l&#39;IA</title>
-      <link>https://example.com/n%C3%A9cessit%C3%A9-dune-gouvernance-des-donn%C3%A9es-pour-ne-pas-rater-le-virage-de-lia/</link>
-      <pubDate>Mon, 06 May 2024 09:27:18 +0200</pubDate>
-      <guid>https://example.com/n%C3%A9cessit%C3%A9-dune-gouvernance-des-donn%C3%A9es-pour-ne-pas-rater-le-virage-de-lia/</guid>
+      <link>http://localhost:1313/necessite-data-gouv-ia/</link>
+      <pubDate>Wed, 01 May 2024 09:27:18 +0200</pubDate>
+      <guid>http://localhost:1313/necessite-data-gouv-ia/</guid>
       <description>Introduction&#xA;Vous pouvez fantasmer autant que vous le voulez sur les possibilités illimitées de la data et de l’IA pour votre organisation, mais il y a de grandes chances que vous ne soyez pas encore prêts pour le grand virage de l’IA. La bonne nouvelle c&amp;rsquo;est que vous avez la possibilité de vous rattraper si vous faites les bonnes choses dès maintenant.&#xA;Si vous ne faites rien, vous risquez de vous faire dépasser par vos concurrents.</description>
     </item>
   </channel>

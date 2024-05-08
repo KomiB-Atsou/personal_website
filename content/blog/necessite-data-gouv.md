@@ -1,11 +1,13 @@
 +++
+slug = "necessite-data-gouv-ia"
+url = '/necessite-data-gouv-ia/index.html'
 title = "Nécessité d'une gouvernance des données pour ne pas rater le virage de l'IA"
-date = "2024-05-06T09:27:18+02:00"
+date = "2024-05-01T09:27:18+02:00"
 
 #
 # description is optional
 #
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
+description = "Nécessité d'une gouvernance des données pour ne pas rater le virage de l'IA"
 
 tags = ["data gouvernance","IA",]
 +++
