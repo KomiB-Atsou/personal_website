@@ -1,6 +1,6 @@
 +++
 title = "Comment nous avons réussi à transformer les finances de notre famille avec Plenit Finance"
-date = "2024-08-05T08:40:26+02:00"
+date = "2024-07-01T08:40:26+02:00"
 
 #
 # description is optional

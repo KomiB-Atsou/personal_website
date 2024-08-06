@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: http://localhost:58901/sitemap.xml
+Sitemap: http://komi-b-atsou.com/sitemap.xml

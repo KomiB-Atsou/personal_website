@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Komi Bi-Ayéfo ATSOU | komi-b-atsou.com</title>
-    <link>http://localhost:58901/posts/</link>
+    <link>http://komi-b-atsou.com/posts/</link>
     <description>Recent content in Posts on Komi Bi-Ayéfo ATSOU | komi-b-atsou.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, Komi Bi-Ayéfo ATSOU.</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:58901/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://komi-b-atsou.com/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
