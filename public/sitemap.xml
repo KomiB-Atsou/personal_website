@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-08T05:41:57+02:00</lastmod>
+    <loc>http://komi-b-atsou.com/</loc>
+    <lastmod>2024-08-05T08:40:26+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-05-08T05:41:57+02:00</lastmod>
+    <loc>http://komi-b-atsou.com/blog/</loc>
+    <lastmod>2024-08-05T08:40:26+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/data-gouvernance/</loc>
-    <lastmod>2024-05-08T05:41:57+02:00</lastmod>
+    <loc>http://komi-b-atsou.com/comment-nous-avons-r%C3%A9ussi-%C3%A0-transformer-les-finances-de-notre-famille-avec-plenit-finance/</loc>
+    <lastmod>2024-08-05T08:40:26+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/ia/</loc>
-    <lastmod>2024-05-08T05:41:57+02:00</lastmod>
+    <loc>http://komi-b-atsou.com/blog/finances-personnelles/</loc>
+    <lastmod>2024-08-05T08:40:26+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test/</loc>
-    <lastmod>2024-05-08T05:41:57+02:00</lastmod>
+    <loc>http://komi-b-atsou.com/posts/</loc>
+    <lastmod>2024-08-05T08:40:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-05-01T09:56:12+02:00</lastmod>
+    <loc>http://komi-b-atsou.com/blog/data-gouvernance/</loc>
+    <lastmod>2024-05-01T09:27:18+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/necessite-data-gouv-ia/</loc>
+    <loc>http://komi-b-atsou.com/blog/ia/</loc>
+    <lastmod>2024-05-01T09:27:18+02:00</lastmod>
+  </url><url>
+    <loc>http://komi-b-atsou.com/necessite-data-gouv-ia/</loc>
     <lastmod>2024-05-01T09:27:18+02:00</lastmod>
   </url>
 </urlset>
