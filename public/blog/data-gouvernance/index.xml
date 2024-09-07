@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Gouvernance on Komi Bi-Ayéfo ATSOU | komi-b-atsou.com</title>
-    <link>http://komi-b-atsou.com/blog/data-gouvernance/</link>
+    <link>https://komi-b-atsou.com/blog/data-gouvernance/</link>
     <description>Recent content in Data Gouvernance on Komi Bi-Ayéfo ATSOU | komi-b-atsou.com</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, Komi Bi-Ayéfo ATSOU.</copyright>
     <lastBuildDate>Wed, 01 May 2024 09:27:18 +0200</lastBuildDate>
-    <atom:link href="http://komi-b-atsou.com/blog/data-gouvernance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://komi-b-atsou.com/blog/data-gouvernance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nécessité d&#39;une gouvernance des données pour ne pas rater le grand virage de l&#39;IA</title>
-      <link>http://komi-b-atsou.com/necessite-data-gouv-ia/</link>
+      <link>https://komi-b-atsou.com/necessite-data-gouv-ia/</link>
       <pubDate>Wed, 01 May 2024 09:27:18 +0200</pubDate>
-      <guid>http://komi-b-atsou.com/necessite-data-gouv-ia/</guid>
+      <guid>https://komi-b-atsou.com/necessite-data-gouv-ia/</guid>
       <description>Une récente étude menée par Dataiku et Databricks auprès de 400 leaders de l&amp;rsquo;IA révèle que la qualité des données est la raison principale qui empêche les organisations de générer de la valeur grâce à l&amp;rsquo;IA. Vous pouvez fantasmer autant que vous le voulez sur les possibilités illimitées de la data et de l’IA pour votre organisation, mais il y a de grandes chances que vous ne soyez pas encore prêts pour le grand virage de l’IA.</description>
     </item>
   </channel>
