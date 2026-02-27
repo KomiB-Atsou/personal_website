@@ -13,11 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repository
+      - name: 📥 Checkout repository (no submodules)
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: false        # avoid pulling every submodule
           fetch-depth: 0
+
+      - name: 📁 Init only the Ananke theme submodule
+        run: |
+          git submodule update --init themes/ananke
+          # we deliberately skip themes/hugo-bearblog
 
       - name: ⚙️ Setup Hugo
         uses: peaceiris/actions-hugo@v3
